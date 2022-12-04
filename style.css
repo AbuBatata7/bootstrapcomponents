@@ -1,0 +1,89 @@
+.home {
+    color: aqua;
+    background-color: plum;
+}
+.home h1 {
+    background-color: limegreen;
+    text-align: center;
+    font-size: 48px;
+}
+.f {
+    background-color: plum;
+}
+.f h1 {
+    text-align: center;
+    font-size: 48px;
+    background-color: fuchsia;
+    color: aqua;
+}
+.f img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 200px;
+}
+.p {
+    background-color: magenta;
+}
+.p h1 {
+    text-align: center;
+    font-size: 48px;
+    background-color: fuchsia;
+    color: aqua;
+}
+.p img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 200px;
+}
+.k {
+    background-color: magenta;
+}
+.k img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 200px;
+}
+.k h1 {
+    text-align: center;
+    font-size: 48px;
+    background-color: fuchsia;
+    color:deeppink;
+}
+.c {
+    background-color: magenta;
+}
+.c h1 {
+    text-align: center;
+    font-size: 48px;
+    background-color: fuchsia;
+    color: aqua;
+}
+.c img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 200px;
+}
+.b {
+    background-color:chartreuse;
+}
+.b h1 {
+    text-align: center;
+    font-size: 48px;
+    background-color: fuchsia;
+    color: aqua;
+}
+.b img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 200px;
+}
